@@ -109,7 +109,7 @@ const contarVogais = (value) => {
 
 // console.log(valor);
 
-//uma função chamada calcularMedia que recebe um array de números como
+//10) uma função chamada calcularMedia que recebe um array de números como
 // parâmetro e retorna a média desses números.
 
 const media = function (numbers) {
